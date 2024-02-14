@@ -5,3 +5,4 @@ Simple ToDo
  
 
 - python manage.py runserver
+- Templates / test
