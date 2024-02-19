@@ -6,4 +6,4 @@ Simple ToDo
 
 - python manage.py runserver
 - Templates / test
-- 19/2
+- 19/2 - 
