@@ -49,5 +49,10 @@
 
         <img src="{% static 'images/django.png' %}" alt="" width="400">
     </div>
+    {% for i in employees %}
+    <h4>
+        {{ i }}
+    </h4>
+    {% endfor %}
 </body>
 </html>
