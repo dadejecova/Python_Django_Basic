@@ -11,6 +11,6 @@ class Employee(models.Model):
     create_at = models.DateTimeField(auto_now_add=True)
     updated_ad = models.DateTimeField(auto_now=True)
 
-    class Employee(models.Model):
-        def __str__(self):
-            return f"{self.first_name}, {self.last_name}"
+    ##class Employee(models.Model):
+    def __str__(self):
+        return f"{self.first_name}, {self.last_name}"
