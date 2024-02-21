@@ -7,3 +7,4 @@ Simple ToDo
 - python manage.py runserver
 - Templates / test
 - 19/2 - 
+- 21/2 - Employee Directory
